@@ -1,6 +1,9 @@
+<center>![](./logo.png)</center>
+
 # SeaNativeHUD
 
 ![](https://img.shields.io/badge/platform-iOS%209%2B-orange.svg)
+![](https://img.shields.io/badge/language-objective--c-blue.svg)
 ![](https://img.shields.io/badge/license-MIT-ff69b4.svg)
 
 SeaNativeHUD是对一组封装了原生风格的HUD组件。

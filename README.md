@@ -1,4 +1,8 @@
-<center>![](https://raw.githubusercontent.com/seabrea/SeaNativeHUD/master/logo.png)</center>
+<center>
+
+![](https://raw.githubusercontent.com/seabrea/SeaNativeHUD/master/logo.png)
+
+</center>
 
 # SeaNativeHUD
 

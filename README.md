@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/language-objective--c-blue.svg)
 ![](https://img.shields.io/badge/license-MIT-ff69b4.svg)
 
-SeaNativeHUD是对一组封装了原生风格的HUD组件。
+SeaNativeHUD是一组原生风格的HUD组件。
 
 ## Demo
 
@@ -21,7 +21,7 @@ SeaNativeHUD是对一组封装了原生风格的HUD组件。
 
 具体使用可参考Demo项目
 
-SeaNativeHUD主要封住了Alert，ActionSheet，Loading和Toast组件
+SeaNativeHUD主要包含了Alert，ActionSheet，Loading和Toast四个组件
 
 #### Alert的使用
 
@@ -48,7 +48,7 @@ NSArray<NSString *> *list = @[@"这时选择项0",@"这时选择项1",@"这时�
 
 #### Loading的使用
 
-可简单使用Loading像如下方式
+简单使用Loading如下方式
 
 ```
 [SeaNativeHUD showLoding];

@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
 
   s.summary      = "A easy function for Native HUD."
 
-  s.description  = "使用简单的原生风格弹框组件"
+  s.description  = "在iOS上面使用的原生风格弹框组件，对项目代码无侵入，使用简单."
 
   s.homepage     = "https://github.com/seabrea/SeaNativeHUD"
 

@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/platform-iOS%209%2B-orange.svg)
 ![](https://img.shields.io/badge/language-objective--c-blue.svg)
 ![](https://img.shields.io/badge/license-MIT-ff69b4.svg)
+![CocoaPods compatible](https://img.shields.io/badge/CocoaPods-compatible-green.svg?style=flat)](https://cocoapods.org)
 
 SeaNativeHUD是一组原生风格的HUD组件。
 
@@ -16,6 +17,13 @@ SeaNativeHUD是一组原生风格的HUD组件。
 
 [Demo项目](https://github.com/seabrea/SeaNativeHUD)
 
+## Installation
+
+支持Cocoapods:
+
+```ruby
+pod 'SeaNativeHUD'
+```
 
 ## Usage
 
